@@ -21,7 +21,7 @@ To take this from raw Excel data to a dynamic reporting system, the following en
 ---
 
 ## Dashboard Preview
-![Mobile Sales Dashboard](Full Dashboard.png)
+![Mobile Sales Dashboard](Full-Dashboard.png)
 
 ---
 
